@@ -1,1 +1,1 @@
-Craferia Manual Testing
+SmartInternz Craferia Manual Testing Project
